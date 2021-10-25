@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Owais, you can checkout my portfolio [here][portfolio] 👋
+
+
+
+[portfolio]: https://oowais.github.io/
 
 <!--
 **oowais/oowais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
