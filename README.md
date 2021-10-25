@@ -11,6 +11,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oowais&theme=dark&count_private=true&hide=issues)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oowais&theme=dark)
 
 
 [portfolio-link]: https://oowais.github.io/
