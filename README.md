@@ -5,7 +5,6 @@
 - 🔭 I’ recently worked on my [Portfolio][portfolio-link] website, developed in angular. [Source-code][portfolio-source-code]
 - 🌱 I’m currently learning Python and Vue.js
 - 📫 How to reach me: [Email me][email-link]
-- 😄 Pronouns: he/him
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oowais&theme=dark&count_private=true&hide=issues)
