@@ -9,6 +9,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oowais&theme=dark&count_private=true&hide=issues)
 
+![oowais's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oowais&theme=dark&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oowais&theme=dark)
 
 
